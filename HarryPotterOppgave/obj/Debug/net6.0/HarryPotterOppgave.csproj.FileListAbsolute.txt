@@ -1,0 +1,15 @@
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\bin\Debug\net6.0\HarryPotterOppgave.exe
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\bin\Debug\net6.0\HarryPotterOppgave.deps.json
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\bin\Debug\net6.0\HarryPotterOppgave.runtimeconfig.json
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\bin\Debug\net6.0\HarryPotterOppgave.dll
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\bin\Debug\net6.0\HarryPotterOppgave.pdb
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\HarryPotterOppgave.csproj.AssemblyReference.cache
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\HarryPotterOppgave.GeneratedMSBuildEditorConfig.editorconfig
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\HarryPotterOppgave.AssemblyInfoInputs.cache
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\HarryPotterOppgave.AssemblyInfo.cs
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\HarryPotterOppgave.csproj.CoreCompileInputs.cache
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\HarryPotterOppgave.dll
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\refint\HarryPotterOppgave.dll
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\HarryPotterOppgave.pdb
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\HarryPotterOppgave.genruntimeconfig.cache
+G:\GetPrepared\HarryPotterOppgave\HarryPotterOppgave\HarryPotterOppgave\obj\Debug\net6.0\ref\HarryPotterOppgave.dll
